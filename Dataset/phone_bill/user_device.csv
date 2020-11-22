@@ -1,0 +1,11 @@
+use_id,user_id,platform,platform_version,device,use_type_id
+22782,26980,ios,10.2,"iPhone7,2",2
+22783,29628,android,6,Nexus 5,3
+22784,28473,android,5.1,SM-G903F,1
+22785,15200,ios,10.2,"iPhone7,2",3
+22786,28239,android,6,ONE E1003,1
+22787,12921,android,4.3,GT-I9505,1
+22788,28714,android,6,SM-G930F,1
+22789,28714,android,6,SM-G930F,1
+22790,29592,android,5.1,D2303,1
+22791,28775,ios,10.2,"iPhone6,2",3
