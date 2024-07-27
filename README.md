@@ -1,3 +1,3 @@
 # Machine-Learning-Glossary
 
-## 1. Dataset
+## 1. Private Dataset
